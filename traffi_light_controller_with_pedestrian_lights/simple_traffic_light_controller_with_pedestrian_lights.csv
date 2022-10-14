@@ -1,0 +1,59 @@
+To, Assignment Name, Value
+
+clk_27, Location, PIN_B14
+
+debug, Location, PIN_AB25
+
+reset, Location, PIN_M23
+
+northbound_red, Location, PIN_AD17
+northbound_amber, Location, PIN_AA14
+northbound_green, Location, PIN_AH17
+
+southbound_red, Location, PIN_AD18
+southbound_amber, Location, PIN_AH18
+southbound_green, Location, PIN_AH19
+
+eastbound_red, Location, PIN_V21
+eastbound_amber, Location, PIN_Y19
+eastbound_green, Location, PIN_AA21
+
+westbound_red, Location, PIN_M24
+westbound_amber, Location, PIN_U24
+westbound_green, Location, PIN_W22
+
+free_left_sensor, Location, PIN_M21
+
+southbound_free_left[0], Location, PIN_AC18
+southbound_free_left[1], Location, PIN_AB18
+
+walk_request_button[0], Location, PIN_N21
+walk_request_button[1], Location, PIN_R24
+
+northbound_crossing[0], Location, PIN_AB16
+northbound_crossing[1], Location, PIN_AA16
+northbound_crossing[2], Location, PIN_AB17
+northbound_crossing[3], Location, PIN_AB15
+northbound_crossing[4], Location, PIN_AC17
+northbound_crossing[5], Location, PIN_AA15
+
+southbound_crossing[0], Location, PIN_AA19
+southbound_crossing[1], Location, PIN_AG21
+southbound_crossing[2], Location, PIN_AH21
+southbound_crossing[3], Location, PIN_AE19
+southbound_crossing[4], Location, PIN_AE18
+southbound_crossing[5], Location, PIN_AF19
+
+eastbound_crossing[0], Location, PIN_AA26
+eastbound_crossing[1], Location, PIN_Y25
+eastbound_crossing[2], Location, PIN_W26
+eastbound_crossing[3], Location, PIN_Y26
+eastbound_crossing[4], Location, PIN_W28
+eastbound_crossing[5], Location, PIN_W27
+
+westbound_crossing[0], Location, PIN_F22
+westbound_crossing[1], Location, PIN_E17
+westbound_crossing[2], Location, PIN_L26
+westbound_crossing[3], Location, PIN_L25
+westbound_crossing[4], Location, PIN_H22
+westbound_crossing[5], Location, PIN_J22
