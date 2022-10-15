@@ -1,0 +1,8 @@
+/home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/simple_traffic_light_controller_with_pedestrian_lights.vo {1 {vlog -work work -stats=none /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/simple_traffic_light_controller_with_pedestrian_lights.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module simple_traffic_light_controller_with_pedestrian_lights
+
+Top level modules:
+	simple_traffic_light_controller_with_pedestrian_lights
+
+} {} {}}

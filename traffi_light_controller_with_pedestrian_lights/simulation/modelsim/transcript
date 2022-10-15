@@ -1,0 +1,202 @@
+# Loading project traffic_light_controller_TB
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 58 errors.
+# 2 compiles, 1 failed with 58 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 12 errors.
+# 2 compiles, 1 failed with 12 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 12 errors.
+# 2 compiles, 1 failed with 12 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v failed with 14 errors.
+# 2 compiles, 1 failed with 14 errors.
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.Traffic_controller_test -L altera_mf_ver -L altera_ver -L cycloneive_ver
+# vsim work.Traffic_controller_test -L altera_mf_ver -L altera_ver -L cycloneive_ver 
+# Start time: 14:46:53 on Nov 22,2022
+# Loading work.Traffic_controller_test
+# Loading work.simple_traffic_light_controller_with_pedestrian_lights
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_jtag
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# Loading instances from simple_traffic_light_controller_with_pedestrian_lights_v.sdo
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'myTLC'.  Expected 26, found 22.
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'debug_mode' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'reset_bar' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'left_turn_request' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'walk_request' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'southbound_arrow' not found in the connected module (18th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'westbound_walk_light' not found in the connected module (19th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'eastbound_walk_light' not found in the connected module (20th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'southbound_walk_light' not found in the connected module (21st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'northbound_walk_light' not found in the connected module (22nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tms'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tck'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdi'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdo'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'debug'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'reset'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'free_left_sensor'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'southbound_free_left'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'walk_request_button'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'northbound_crossing'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'southbound_crossing'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'eastbound_crossing'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'westbound_crossing'.
+# Loading altera_ver.PRIM_GDFF_LOW
+# Error loading design
+# End time: 14:46:54 on Nov 22,2022, Elapsed time: 0:00:01
+# Errors: 9, Warnings: 32
+# Break key hit
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -L altera_mf_ver -L altera_ver -L cycloneive_ver work.Traffic_controller_test
+# vsim -L altera_mf_ver -L altera_ver -L cycloneive_ver work.Traffic_controller_test 
+# Start time: 14:49:53 on Nov 22,2022
+# Loading work.Traffic_controller_test
+# Loading work.simple_traffic_light_controller_with_pedestrian_lights
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_jtag
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# Loading instances from simple_traffic_light_controller_with_pedestrian_lights_v.sdo
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'myTLC'.  Expected 26, found 22.
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'debug_mode' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'reset_bar' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'left_turn_request' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Error: (vsim-3063) Port 'walk_request' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tms'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tck'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdi'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdo'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'debug'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'reset'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'free_left_sensor'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'walk_request_button'.
+# Loading altera_ver.PRIM_GDFF_LOW
+# Error loading design
+# End time: 14:49:53 on Nov 22,2022, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 11
+# Compile of simple_traffic_light_controller_with_pedestrian_lights.vo was successful.
+# Compile of Traffic_controller_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -L altera_mf_ver -L altera_ver -L cycloneive_ver work.Traffic_controller_test
+# vsim -L altera_mf_ver -L altera_ver -L cycloneive_ver work.Traffic_controller_test 
+# Start time: 14:51:13 on Nov 22,2022
+# Loading work.Traffic_controller_test
+# Loading work.simple_traffic_light_controller_with_pedestrian_lights
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_jtag
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# Loading instances from simple_traffic_light_controller_with_pedestrian_lights_v.sdo
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'myTLC'.  Expected 26, found 22.
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test/myTLC File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v Line: 107
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tms'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tck'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdi'.
+# ** Warning: (vsim-3722) /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v(107): [TFMPC] - Missing connection for port 'altera_reserved_tdo'.
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from simple_traffic_light_controller_with_pedestrian_lights_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /Traffic_controller_test File: /home/naj474/engr-ece/CME341/Labs/CME341_Lab_6/simulation/modelsim/Traffic_controller_test.v
+add wave -position insertpoint  \
+sim:/Traffic_controller_test/CLOCK_27 \
+sim:/Traffic_controller_test/CLOCK_50 \
+sim:/Traffic_controller_test/CLOCK2_50 \
+sim:/Traffic_controller_test/CLOCK3_50 \
+sim:/Traffic_controller_test/LEDG \
+sim:/Traffic_controller_test/LEDR \
+sim:/Traffic_controller_test/KEY \
+sim:/Traffic_controller_test/SW \
+sim:/Traffic_controller_test/HEX0 \
+sim:/Traffic_controller_test/HEX1 \
+sim:/Traffic_controller_test/HEX2 \
+sim:/Traffic_controller_test/HEX3 \
+sim:/Traffic_controller_test/HEX4 \
+sim:/Traffic_controller_test/HEX5 \
+sim:/Traffic_controller_test/HEX6 \
+sim:/Traffic_controller_test/HEX7 \
+sim:/Traffic_controller_test/LCD_BLON \
+sim:/Traffic_controller_test/LCD_DATA \
+sim:/Traffic_controller_test/LCD_EN \
+sim:/Traffic_controller_test/LCD_ON \
+sim:/Traffic_controller_test/LCD_RS \
+sim:/Traffic_controller_test/LCD_RW \
+sim:/Traffic_controller_test/north_hex \
+sim:/Traffic_controller_test/south_hex \
+sim:/Traffic_controller_test/east_hex \
+sim:/Traffic_controller_test/west_hex \
+sim:/Traffic_controller_test/north_walk_hex \
+sim:/Traffic_controller_test/south_walk_hex \
+sim:/Traffic_controller_test/east_walk_hex \
+sim:/Traffic_controller_test/west_walk_hex \
+sim:/Traffic_controller_test/reset \
+sim:/Traffic_controller_test/debug \
+sim:/Traffic_controller_test/left_turn_request \
+sim:/Traffic_controller_test/walk_NS_request \
+sim:/Traffic_controller_test/walk_EW_request \
+sim:/Traffic_controller_test/clk
+run -all
+# End time: 15:11:27 on Nov 22,2022, Elapsed time: 0:20:14
+# Errors: 0, Warnings: 7
