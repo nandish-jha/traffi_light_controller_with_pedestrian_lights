@@ -1,0 +1,28 @@
+To, Assignment Name, Value
+
+clk_27, Location, PIN_B14
+
+debug, Location, PIN_AB25
+
+reset, Location, PIN_M23
+
+free_left_sensor, Location, PIN_M21
+
+northbound_red, Location, PIN_AD17
+northbound_amber, Location, PIN_AA14
+northbound_green, Location, PIN_AH17
+
+southbound_red, Location, PIN_AD18
+southbound_amber, Location, PIN_AH18
+southbound_green, Location, PIN_AH19
+
+eastbound_red, Location, PIN_V21
+eastbound_amber, Location, PIN_Y19
+eastbound_green, Location, PIN_AA21
+
+westbound_red, Location, PIN_M24
+westbound_amber, Location, PIN_U24
+westbound_green, Location, PIN_W22
+
+southbound_free_left[0], Location, PIN_AC18
+southbound_free_left[1], Location, PIN_AB18
